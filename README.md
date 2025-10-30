@@ -31,7 +31,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Inventário Infinito](https://github.com/IguMavi/Inventario-Infinito)
-- [Guardian Vision](https://github.com/IguMavi/Guardian_Vision)
+- [Guardian Vision](https://github.com/joaoselim/Guardian_Vision)
 - [Geração de imagens médicas artificiais com GANs para expansão de datasets diagnósticos de visão computacional](https://github.com/VariableBee/COVID_19_DASHBOARD)
 
 <!-- GIF -->
