@@ -2,23 +2,23 @@
 
 🎓 Estudante de **Engenharia de Software** no Inatel | Iniciação Científica em **IA para imagens médicas**  
 🧠 Apaixonado por **Inteligência Artificial**, **ganhos práticos com GANs** e **desenvolvimento de projetos únicos**  
-💻 Explorando **C++, Python, Dart, HTML/CSS/JS, Java** e tudo que facilite criar soluções reais  
+💻 Explorando **DevOps** e tudo que facilite criar soluções reais  
 
 ---
 
 ## 🚀 Sobre mim
 - 📊 Trabalho com **geração de imagens médicas usando GANs** e criação de datasets sintéticos.  
-- 🔧 Gosto de **projetos hands-on**, de alarme inteligente a sistemas de inventário dinâmicos.  
-- 🎮 Curto misturar lógica de programação com criatividade — sim, meu lado gamer aparece até no código 😎  
-- 🌱 Sempre aprendendo novas tecnologias e boas práticas de **CI/CD, cloud e Kubernetes**.  
+- 🔧 Gosto de **projetos hands-on**, sempre busco projetos novos.  
+- 🌱 Estou na busca de aprender sobre **CI/CD, cloud, Docker e Kubernetes**.
+- 👷 No momneto estou procurando um estágio, se tiver uma indicação meu contato está la em baixo. 😃
 
 ---
 
 ## 🛠️ Habilidades Técnicas
-- **Linguagens:** C++, Python, Dart, Java, HTML, CSS, JavaScript  
-- **Frameworks / Ferramentas:** StyleGAN3, Flutter, GitHub, Prometheus, Docker  
-- **Conceitos:** IA / Machine Learning, Estruturas de Dados Avançadas, Algoritmos, Automação, Pipeline CI/CD  
-- **Extras:** Manipulação de imagens médicas, geração de datasets, integração de sistemas  
+- **Linguagens:** C++, Python.
+- **Frameworks / Ferramentas:** StyleGAN3, GitHub, Docker, Yolov5.
+- **Conceitos:** IA / Machine Learning, Estruturas de Dados Avançadas, Algoritmos.
+- **Extras:** Manipulação de imagens médicas, geração de datasets, integração de sistemas.  
 
 ---
 
@@ -32,17 +32,16 @@
 ---
 
 ## 🌟 Curiosidades
-- 🐊 Tenho um mascote crocodilo chamado **Samuca** — ele inspira até nomes de variáveis no código 🐊  
-- ☕ Prefiro café forte enquanto debugo algoritmos complexos  
-- 🎧 Música é meu combustível para longas sessões de programação  
+- 🐶 Tenho um dog chamado **Aslan** — um golden bem do fofo.
+- 🎮 Curto muito jogar jogos eletrônicos.
+- 🎧 Falso quase tudo escutando música pode ter certeza.
 
 ---
 
 ## 📫 Contato
-- 📧 E-mail: `seuemail@dominio.com`  
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com)  
-- 🐙 GitHub: [github.com/seuusuario](https://github.com/seuusuario)  
+- 📧 E-mail: `igor@mavigno.com` 
+- 📱 Celular: (11) 98753-8599
 
 ---
 
-> “Transformar ideias em código é meu superpoder.” ⚡
+> “Aprender é transformar curiosidade em habilidade, e habilidade em impacto.” 
