@@ -34,7 +34,7 @@
 ## 🌟 Curiosidades
 - 🐶 Tenho um dog chamado **Aslan** — um golden bem do fofo.
 - 🎮 Curto muito jogar jogos eletrônicos.
-- 🎧 Falso quase tudo escutando música pode ter certeza.
+- 🎧 Faço quase tudo escutando música pode ter certeza.
 
 ---
 
