@@ -1,47 +1,57 @@
-# 👋 Olá, eu sou Igor Medes!
+# 👋 Olá, eu sou Igor Medes!  
 
-🎓 Estudante de **Engenharia de Software** no Inatel | Iniciação Científica em **IA para imagens médicas**  
-🧠 Apaixonado por **Inteligência Artificial**, **ganhos práticos com GANs** e **desenvolvimento de projetos únicos**  
-💻 Explorando **DevOps** e tudo que facilite criar soluções reais  
-
----
-
-## 🚀 Sobre mim
-- 📊 Trabalho com **geração de imagens médicas usando GANs** e criação de datasets sintéticos.  
-- 🔧 Gosto de **projetos hands-on**, sempre busco projetos novos.  
-- 🌱 Estou na busca de aprender sobre **CI/CD, cloud, Docker e Kubernetes**.
-- 👷 No momneto estou procurando um estágio, se tiver uma indicação meu contato está la em baixo. 😃
+🎓 Estudante de Engenharia de Software no Inatel  
+🧠 Pesquisador em Inteligência Artificial e geração de imagens médicas com GANs  
+💻 Desenvolvedor de projetos práticos: Arduino, Python, Dart, HTML/CSS/JS, Java  
 
 ---
 
-## 🛠️ Habilidades Técnicas
-- **Linguagens:** C++, Python.
-- **Frameworks / Ferramentas:** StyleGAN3, GitHub, Docker, Yolov5.
-- **Conceitos:** IA / Machine Learning, Estruturas de Dados Avançadas, Algoritmos.
-- **Extras:** Manipulação de imagens médicas, geração de datasets, integração de sistemas.  
+## 🌟 Frase sobre aprendizado
+> “Aprender é transformar curiosidade em habilidade, e habilidade em impacto.”  
+
+---
+
+## 🛠️ Tecnologias e skills
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## 📂 Projetos em destaque
-| Projeto | Tecnologias | O que faz |
-|---------|------------|-----------|
-| **Inventário Infinito** | C++ | Sistema de inventário dinâmico com árvores e ponteiros |
-| **Guardian Vision** | Arduino, Python, Flutter, HTML/CSS/JS | Alarme inteligente com notificações em tempo real |
-| **StyleGAN3 MedImages** | Python, GANs | Geração de imagens médicas sintéticas para datasets de treinamento de IA |
+
+### Inventário Infinito
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Inventário Infinito">  
+Sistema de inventário dinâmico em C++ com árvores binárias e ponteiros.
+
+### Guardian Vision
+<img src="https://media.giphy.com/media/l0HlQ7LRalR8Xm7e0/giphy.gif" width="300" alt="Guardian Vision">  
+Alarme inteligente com sensores, backend Python e app Flutter para notificações em tempo real.
+
+### StyleGAN3 MedImages
+<img src="https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif" width="300" alt="GAN MedImages">  
+Geração de imagens médicas sintéticas para datasets de treinamento de IA.
 
 ---
 
-## 🌟 Curiosidades
-- 🐶 Tenho um dog chamado **Aslan** — um golden bem do fofo.
-- 🎮 Curto muito jogar jogos eletrônicos.
-- 🎧 Faço quase tudo escutando música pode ter certeza.
+## 📊 Estatísticas do GitHub
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seuusuario&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Contato
-- 📧 E-mail: `igor@mavigno.com` 
-- 📱 Celular: (11) 98753-8599
+
+📧 Email: seuemail@dominio.com  
+💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com)  
+🐙 GitHub: [github.com/seuusuario](https://github.com/seuusuario)
 
 ---
 
-> “Aprender é transformar curiosidade em habilidade, e habilidade em impacto.” 
+> “Transformar ideias em código é meu superpoder.” ⚡
