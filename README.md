@@ -32,8 +32,7 @@
 ## Portfolio:
 - [Inventário Infinito](https://github.com/IguMavi/Inventario-Infinito)
 - [Guardian Vision](https://github.com/joaoselim/Guardian_Vision)
-- [Geração de imagens médicas artificiais com GANs para expansão de datasets diagnósticos de visão computacional](https://github.com/VariableBee/COVID_19_DASHBOARD)
-
+- [Geração de imagens médicas artificiais com GANs para expansão de datasets diagnósticos de visão computacional]
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGkwOGl4YTZ4cWRkbjA3c3hsdXF0bzBqYzRieDM2NmVsbmM3OGRrdiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/8SzmrGqs6oD7i/giphy.gif" alt="imagem">
